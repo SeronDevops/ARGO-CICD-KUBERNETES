@@ -4,7 +4,7 @@ metadata:
   labels:
     app: nginx
   name: nginxsvc
-  namespace: default
+  namespace: seron
 spec:
   ports:
   - port: 80
